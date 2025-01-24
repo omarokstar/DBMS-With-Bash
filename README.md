@@ -45,4 +45,4 @@ By leveraging tools available in Unix/Linux environments, this project is both e
 3. Navigate to the project directory using your terminal.
 4. Run the script using the command:
    ```bash
-   bash dbms.sh
+   bash db.sh
