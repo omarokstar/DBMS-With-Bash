@@ -22,12 +22,6 @@ This project is a lightweight and efficient **Database Management System** built
 - **Dynamic Management**: Seamless handling of databases, tables, and rows in real time.
 - **User-Friendly CLI Menu**: Navigate effortlessly with an intuitive command-line interface.
 
-### 3️⃣ Technical Highlights
-- **Shell Scripting Mastery**: Utilized tools like `grep`, `awk`, and `sed` for efficient data operations.
-- **File-Based Storage**: Organized storage with structured directories and files (`.meta` for schema, `.data` for content).
-- **Robust Validation**: Ensures data integrity through type checks and unique constraints.
-
----
 
 ## Why Bash Script?
 This project demonstrates the versatility of **Bash Scripting** in:
